@@ -13,11 +13,15 @@ NRC: 10067
 # 1. OBJETIVOS
  OBJETIVO GENERAL
   
-
+- Investigar y dominar los nuevos metodos que se encuentran en el libro  mediante la lectura y resolucion de ejercicios que se encuentran en la bibliografia para el analisis de circuitos electricos ya sea al calcular el voltaje, corriente y tambien conocer lo que es el magnetismo y todo lo que este conlleva 
 
  OBJETIVOS ESPECÍFICOS
  
+- Utilizar el método de la corriente en ramas,análisis de lazos y análisis de nodos para determinar cantidades desconocidas en un circuito. 
 
+- Explicar los principios de un campo magnético
+
+- Explicar los principios del electromagnetismo
 
 
 # 2. MARCO TEÓRICO 
@@ -201,7 +205,15 @@ La función de las escobillas de carbón es
 
 # 5. CONCLUSIONES 
 
+- Los metodos de analisis de circuitos se pueden aplicar en cualquier circuito lo importante es saber reconocer que metodo nos favorece en la resolucion del mismo para que asi nos ahorremos tiempo ya que si emplemos otro metodo igual llrgaremos a la respuesta pero se complica un poco el proceso por eso es importante dominar todos los metodos
 
+- En conclusión, el magnetismo fenómeno físico a el que ejerce fuerzas de atracción ante algunos objetos, el níquel, el cobalto el hierro y las aleaciones se les llama imanes. Que lo cual todo influye en el magnetismo por que es llama el campo magnético.
+
+- En el metodo de mallas es recomendable dibujar las corrientes en el sentido de las manecillas del reloj ya que esto nos favorece mucho al momento de resolver por este metodo 
+
+- El método de análisis de mallas y nodos nos permiten ver de manera más sencilla el comportamiento de la corritne y voltaje dentro de un circuito siempre y cuando las ecuaciones esten bien planteadas.
+
+- El magnetismo terrestre es muy importante ya que son las líneas que señalan cada punto de la tierra en una sola dirección: Norte-Sur magnéticas, conocida como meridiana.
 
 # 6.BIBLIOGRAFÍA
 
